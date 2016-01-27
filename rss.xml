@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Unique Point of View]]></title>
+        <description><![CDATA[A Unique Point of View]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 11:33:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deuteranope Designs]]></title>
+            <description><![CDATA[<article><h1>Deuteranope Designs</h1><p>Deuteranope Designs - A Unique Point of View</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6990a1-4dcc-422d-947f-7bfcecd1ed2c.png"></article>]]></description>
+            <link>undefineddeuteranope-designs/index.html</link>
+            <guid isPermaLink="false">f810b413-88c6-48dd-8afb-7994c7b5ad8e</guid>
+            <pubDate>Wed, 27 Jan 2016 11:09:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
