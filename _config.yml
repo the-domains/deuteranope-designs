@@ -1,0 +1,28 @@
+name: Deuteranope Designs
+favicon: null
+layout_spectrum: 0.22665799222886562
+typography_spectrum: 0.7389699225313962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2235446039121598
+  lightness: 0.9754833136685193
+  saturation: 0.9923868607729673
+  rhythmicContrast: 0.1388780535198748
+purpose: []
